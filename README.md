@@ -16,7 +16,7 @@ When you generate a resource on MagiTeacher, you provide three inputs:
 
 1. **The Class** — Year Group, Subject, and Topic
 2. **The Output** — Resource type, Difficulty, and Length
-3. **The Personalisation** — **Context** (Details / Specifics / Theme)
+3. **The Personalisation** — Context (Details / Specifics / Theme)
 
 The first two inputs tell MagiTeacher *what* to generate. The Context field 
 tells it *how*.
@@ -81,6 +81,9 @@ The curriculum content stays the same — the delivery becomes more motivating.
 - "Frame using a Great British Bake Off competition format"
 - "Link to the coronation of a new monarch"
 
+Works especially well for Do Now Starters, Gamification Narratives, 
+Role-Play Scripts, and Homework Tasks — but applies to any resource type.
+
 ---
 
 ### Describe Your Class
@@ -128,7 +131,7 @@ across the curriculum.
 
 ---
 
-## 5 Real Examples from the MagiTeacher Library
+## 10 Real Examples from the MagiTeacher Library
 
 ---
 
@@ -136,8 +139,10 @@ across the curriculum.
 **Context used:** *"The four seasons, weather changes across the year, and 
 how day length varies between seasons"*
 
-A specific content-focused context for a broad KS1 topic. The lesson plan 
-covers exactly the right scope for Year 1 — no more, no less.
+The context anchors a broad KS1 topic to specific content — the lesson 
+uses a sensory mystery bag, a globe and torch to explain day length, a 
+Season Circle sorting activity, and a Weather Diary writing task. Clear 
+scope, no drift.
 
 👉 [View resource](https://magiteacher.com/resources/year-1-science-seasons-5-minute-lesson-plan)
 
@@ -147,8 +152,10 @@ covers exactly the right scope for Year 1 — no more, no less.
 **Context used:** *"Quick recall of day order, identifying the day before 
 and after, reading a simple timetable, and weekday versus weekend"*
 
-Precise retrieval focus for a simple topic — the context turns a generic 
-quiz into a targeted formative assessment for exactly the right KS1 skills.
+The context produces a tight 5-question quiz targeting day order, 
+before/after vocabulary, weekend identification, and simple timetable 
+reading — all scaffolded for non-readers with teacher-read scripts 
+for each question.
 
 👉 [View resource](https://magiteacher.com/resources/year-1-mathematics-days-of-the-week-low-stakes-quiz-mcq-only)
 
@@ -158,9 +165,10 @@ quiz into a targeted formative assessment for exactly the right KS1 skills.
 **Context used:** *"Focus on the conflicting demands of Clemenceau, 
 Lloyd George and Wilson during the Paris Peace Conference"*
 
-A thematic, character-driven context that transforms a knowledge topic 
-into an immersive oracy activity. Students inhabit real historical figures 
-with competing agendas.
+The context produces a dramatic script where the three leaders debate 
+reparations, the Rhineland, the League of Nations, and the War Guilt 
+Clause — each character arguing from their own national interest, with 
+an epilogue explaining what actually happened.
 
 👉 [View resource](https://magiteacher.com/resources/year-9-history-the-treaty-of-versailles-role-play-scripts)
 
@@ -170,9 +178,10 @@ with competing agendas.
 **Context used:** *"Assesses pupils' ability to compose a short piece 
 using staff notation, dynamic markings, and awareness of musical structure"*
 
-A highly specific assessment context — the rubric is built around 
-observable, measurable criteria for a practical task rather than 
-generic music descriptors.
+The context produces a 5-criteria rubric covering notation accuracy, 
+rhythmic variety, melodic control, musical structure, and dynamics — 
+with three ability bands (WT, EXS, GDS), ready-to-use marking codes, 
+and intervention tips.
 
 👉 [View resource](https://magiteacher.com/resources/year-4-music-composition-and-notation-marking-rubrics)
 
@@ -184,9 +193,10 @@ Square Law for light intensity and a graph interpretation task regarding
 CO2 concentration. Focus on differentiating between AO1 recall and 
 AO3 evaluation of experimental data."*
 
-Academic precision at GCSE level — the context specifies the exact 
-calculation, the data task, and the assessment objectives. The output 
-is exam-board aligned and ready to use.
+The context produces an assessment with 5 MCQs including a data table 
+on oxygen production, an Inverse Square Law calculation, and a 5-mark 
+data analysis question on CO2 and temperature — with questions explicitly 
+mapped to AO1 and AO3. Full mark scheme included.
 
 👉 [View resource](https://magiteacher.com/resources/year-10-science-photosynthesis-and-limiting-factors-mixed-assessment-paper-the-hybrid)
 
@@ -196,9 +206,10 @@ is exam-board aligned and ready to use.
 **Context used:** *"Plot sequencing, character identification, key scenes, 
 and cause-and-effect events across all five acts of the play"*
 
-A content-rich context that turns a broad Shakespeare topic into a structured 
-home learning task — covering the full play systematically rather than 
-leaving the scope open.
+The context focuses the resource on cause-and-effect sequencing across 
+four linked events in Act 3, a character role table for Tybalt, Friar 
+Laurence, Nurse, and Mercutio, and a PEEL paragraph on Act 3 Scene 1 
+as the turning point — not a generic overview of the play.
 
 👉 [View resource](https://magiteacher.com/resources/year-9-english-romeo-and-juliet-homework-home-learning-tasks)
 
@@ -209,9 +220,10 @@ leaving the scope open.
 to agriculture, the impact of steam power, and living conditions in 
 industrial Britain"*
 
-A thematic context that anchors a vast topic to specific content strands — 
-ensuring the lesson plan covers the right breadth for KS3 without becoming 
-unfocused.
+The context structures the lesson around specific content strands — 
+the Domestic vs Factory System, the Enclosure Acts, steam power, child 
+labour, and urban living conditions — with a contrasting images starter, 
+primary source analysis, and a PEEL writing task.
 
 👉 [View resource](https://magiteacher.com/resources/year-8-history-the-industrial-revolution-5-minute-lesson-plan)
 
@@ -221,9 +233,10 @@ unfocused.
 **Context used:** *"The characteristics, formation, and examples of 
 sedimentary, igneous, and metamorphic rocks"*
 
-A precise content-focused context that structures the knowledge organiser 
-around the three rock types — giving Year 3 pupils a clear, categorised 
-revision tool.
+The context produces a knowledge organiser with six sections — core 
+facts, key vocabulary, and a dedicated section for each rock type with 
+formation process, named examples (granite, basalt, chalk, marble, 
+slate), real-world uses, and three retrieval tasks.
 
 👉 [View resource](https://magiteacher.com/resources/year-3-science-types-of-rocks-knowledge-organiser-facts)
 
@@ -233,9 +246,10 @@ revision tool.
 **Context used:** *"Magnetic forces, attraction and repulsion, magnetic 
 materials, and the physical properties of northern and southern poles"*
 
-Specific scientific content added to a broad topic — the context ensures 
-the lesson plan addresses the exact KS2 statutory requirements for forces 
-and magnets.
+The context produces a hands-on lesson built around two core 
+investigations — a magnetic material audit table and a pole interaction 
+map — with a mystery magnet hook, SEND sentence starters, and a Greater 
+Depth extension testing whether magnetic force works through barriers.
 
 👉 [View resource](https://magiteacher.com/resources/year-3-science-magnetism-5-minute-lesson-plan)
 
@@ -246,9 +260,11 @@ and magnets.
 Roman city, what the ash preserved, key vocabulary including eruption, 
 archaeologist, and archaeological evidence"*
 
-A highly detailed context that shapes the knowledge organiser around both 
-the historical event and the archaeological process — giving Year 4 pupils 
-the vocabulary and facts they need in one resource.
+The context produces a six-section knowledge organiser covering the 
+eruption (pyroclastic flow, Pliny the Younger, depth of ash), life in 
+a Roman city (insulae, villas, public baths), what the ash preserved 
+(body casts, frescoes, mosaics, graffiti), and a full key vocabulary 
+section.
 
 👉 [View resource](https://magiteacher.com/resources/year-4-history-pompeii-knowledge-organiser-facts)
 
