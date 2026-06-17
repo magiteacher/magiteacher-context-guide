@@ -81,9 +81,6 @@ The curriculum content stays the same — the delivery becomes more motivating.
 - "Frame using a Great British Bake Off competition format"
 - "Link to the coronation of a new monarch"
 
-Works especially well for Do Now Starters, Gamification Narratives, 
-Role-Play Scripts, and Homework Tasks — but applies to any resource type.
-
 ---
 
 ### Describe Your Class
